@@ -1,0 +1,64 @@
+* {
+    font-family: Permanent Marker, impact;
+}
+.nav-link {
+    font-size: 1.5rem;
+    color: rgb(10, 10, 10);
+    list-style-type: none;
+    margin-right: 20px;
+    text-decoration: none;
+    /* background-color: aqua; */
+    padding: 5px 10px;
+}
+.nav-link:hover {
+    cursor: pointer;
+    color: greenyellow;
+    transition: color .4s;
+}
+.welcome {
+    font-size: 3rem;
+    color: rgb(10, 10, 10); 
+    display: inline;
+    vertical-align: middle;
+    float: right;
+    
+}
+.main-logo {
+    width: 150px;
+    border-radius: 100px;
+    display: inline;
+    cursor: pointer;
+}
+
+.welcome-div {
+    
+}
+.tiny-icon {
+    border-radius: 100px;
+}
+.whole-body {
+    background-color: rgb(69, 135, 69);
+    background-size: cover;
+}
+.navigation {
+    
+}
+.copyrights {
+    text-align: center;
+    font-size: 1.5rem;
+}
+.rule {
+    background-color: greenyellow;
+    height: 5px;
+    border: none;
+}
+.item_title {
+    text-indent: 40px;
+    font-size: 3rem;
+    text-align: center;
+}
+.shop_images {
+    width: 300px;
+    display: block;
+    margin: 30px 40px;
+}
